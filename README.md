@@ -4,7 +4,7 @@ This is your first github repository.
 
 I'm editing this message at brance!
 
-```
+```markdown
 generate SSH key
 
 ls -al ~/.ssh
@@ -23,3 +23,14 @@ Your identification has been saved in /Users/lianli/.ssh/id_rsa.
 Your public key has been saved in /Users/lianli/.ssh/id_rsa.pub.
 The key fingerprint is:
 ...
+
+```
+
+```markdown
+add another line form local MBP.
+```
+
+```
+another test line
+```
+
