@@ -30,7 +30,3 @@ The key fingerprint is:
 add another line form local MBP.
 ```
 
-```
-another test line
-```
-
